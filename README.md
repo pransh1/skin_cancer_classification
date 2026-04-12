@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 Skin Cancer Classification (Benign vs Malignant)
 
 ##  Overview
@@ -105,6 +104,4 @@ model = load_model('model_vgg19.h5')
 ##  Disclaimer
 
 This project is for **educational purposes only** and should not be used for real medical diagnosis.
-=======
 # skin_cancer_classification
->>>>>>> 702bfc543ab63c20fc6d09036a4ab840f7621050
